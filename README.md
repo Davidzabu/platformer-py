@@ -45,7 +45,7 @@ Clone the repository:
 
 ```bash Copy
 git clone https://github.com/simichanga/platformer-py.git
-cd platformer-game
+cd platformer-py
 ```
 Install dependencies:
 
